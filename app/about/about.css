@@ -1,0 +1,42 @@
+.about{
+    height: 100%;
+    width: 100%;
+}
+.about h1{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.about-item{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.about-p{
+      background-color: white;
+      margin: 20px;
+      padding: 10px;
+      border-radius: 20px;
+      font-size:1.5em;
+}
+.about-p-img{
+    display: flex;
+    justify-content: center;
+      margin: 20px;
+      padding: 10px;
+      border-radius: 40px;
+      width: 240px;
+}
+.about-img{
+    display: flex;
+    justify-content: center;
+      background-color: white;
+      margin: 20px;
+      padding: 10px;
+      border-radius: 100px;
+      width: 240px;
+}

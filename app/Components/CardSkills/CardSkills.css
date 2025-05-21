@@ -1,0 +1,25 @@
+.card{
+    border-radius: 20px;
+    height: 350px;
+    width: 300px; 
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+.card-image{
+    height: 180px;
+    width: 100%;
+}
+.card-content{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card-description{
+    padding-top: 10px;
+    font-size: 14px;
+    color: #000000;
+    text-align: center;
+}
+    

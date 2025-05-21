@@ -1,0 +1,24 @@
+body{
+    height: 100vh;
+    width: 100%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+.title{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    font-size: 5rem;
+    color: rgb(0, 0, 0);
+    align-items: center;
+    text-align: end;
+}
+.foto-principal{
+    height: 100%;
+    width: 100%;
+}

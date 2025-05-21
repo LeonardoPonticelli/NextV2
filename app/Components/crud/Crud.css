@@ -1,0 +1,49 @@
+.name{
+    display:flex;
+    padding:5px 10px;
+    align-items: center;
+    border-radius:20px;
+    background-color: rgba(128, 128, 128, 0.445);
+
+}
+.name-span{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.email-span{
+    font-size: 12px;
+    color:rgb(117, 115, 115);
+}
+li{
+    list-style: none;
+}
+.ul-name{
+    display:flex;
+    flex-direction: column;
+    gap:2px;
+}
+.alterar-delete{
+    display: flex;
+    gap:2px;
+
+}
+.icone{
+    color: white;
+}
+.alterar{
+    height: 30px;
+    width: 30px;
+    background-color: #007bff;
+    border: none;    
+    border-radius: 5px;
+    cursor: pointer;
+}
+.deletar{
+    height: 30px;
+    width: 30px;
+    background-color: #ff3c00;
+    border: none;    
+    border-radius: 5px;
+    cursor: pointer;
+}
